@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "528074609274",
+    "firebase_url": "https://pratibimb-f3593.firebaseio.com",
+    "project_id": "pratibimb-f3593",
+    "storage_bucket": "pratibimb-f3593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528074609274:android:2ba7a2336df388a5",
+        "android_client_info": {
+          "package_name": "anonymous.prati_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528074609274-r2fvrdf2d89m900ifdt4ps2sftajq0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5XrXIzaIUBYe00cIRK3HjgQBAfUjZho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528074609274:android:f00d8f85bd12d35c",
+        "android_client_info": {
+          "package_name": "vjti.pratibimb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528074609274-r2fvrdf2d89m900ifdt4ps2sftajq0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5XrXIzaIUBYe00cIRK3HjgQBAfUjZho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528074609274:android:7efd926a88a5bdc1",
+        "android_client_info": {
+          "package_name": "vjti.prati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528074609274-r2fvrdf2d89m900ifdt4ps2sftajq0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5XrXIzaIUBYe00cIRK3HjgQBAfUjZho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528074609274:android:d0b68d0c64a904ee",
+        "android_client_info": {
+          "package_name": "vjti.prati_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528074609274-r2fvrdf2d89m900ifdt4ps2sftajq0v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO5XrXIzaIUBYe00cIRK3HjgQBAfUjZho"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

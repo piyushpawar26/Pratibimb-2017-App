@@ -1,0 +1,55 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee"
+    tools:context="vjti.prati_new.AarambhFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_aarambh_one"
+                android:textSize="18sp"
+                android:background="@drawable/input_boxes_n"
+                android:layout_margin="10dp"
+                android:padding="12dp"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:id="@+id/iv_aarambh"
+                android:scaleType="centerInside"
+                android:background="#fff"/>
+
+            <!--<android.support.v4.view.ViewPager-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:padding="10dp"-->
+                <!--android:background="#ddd"-->
+                <!--android:layout_height="240dp"-->
+                <!--android:id="@+id/pager_aarambh" />-->
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/str_aarambh_two"
+                android:textSize="18sp"
+                android:id="@+id/tv_aarambh_two"
+                android:layout_margin="10dp"
+                android:background="@drawable/input_boxes_n"
+                android:layout_marginTop="10dp"
+                android:padding="12dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</FrameLayout>

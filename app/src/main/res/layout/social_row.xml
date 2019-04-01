@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:id="@+id/social_row_title"
+        android:paddingLeft="25dp"
+        android:background="#fff"
+        android:gravity="center_vertical"
+        android:text="Event name"
+        android:fontFamily="sans-serif-light"
+        android:textColor="#222"
+        android:textSize="25sp" />
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="#eee"
+        android:id="@+id/social_row_image"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/social_row_desc"
+        android:background="#fff"
+        android:padding="15dp"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:text="@string/sample"/>
+
+</LinearLayout>

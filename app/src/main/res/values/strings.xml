@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Pratibimb</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="vjti_one">The Veermata Jijabai Technological Institute was given its present title on January 26, 1997. Founded in 1887, it was then known as Victoria Jubilee Technical Institute.It is one of the premier engineering institutes of the country and is a huge brand name in itself.</string>
+    <string name="vjti_two">Under the World Bank grant - TEQIP - the institute has several projects underway to establish itself as a world class technological institute. The modernization will offer excellent central computing facilities to students, who will also have access to improved laboratory and workshop facilities. </string>
+    <string name="vjti_three">Realizing the potential of the institute, reputed industries have sponsored laboratories - for instance, the high voltage laboratory, courtesy Siemens; and the Computational Fluid Dynamics laboratory, courtesy B.A.R.C.</string>
+
+    <string name="sample">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry.</string>
+    <string name="about_text">Pratibimb is Reflection. Reflection of pulsating energy, infectious enthusiasm, heartwarming fellowship, winning attitudes, crazy moments and wonderful times!! It continues to provide an attractive platform for showcasing fresh talent that college-students have within them. Pratibimb is made out of the innovative, fresh &amp; ever buzzing minds of students of VJTI who not only invest their time into the festival but also their energy.</string>
+    <string name="str_freshers">Hey Juniors! Get all bubbly and exuberant! We have arranged the most anticipated gala event of the year,\nThe Freshers\' Party - <b>Aarambh 2k17</b>.\nSo gamble towards the Quadrangle on 22nd September at 5PM.\nRegister below:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Aarambh -->
+    <string name="str_aarambh_one">"A good beginning is half work done."
+Pratibimb\'s Theme Launch followed by Pratibimb Mela kick started to the grand fest this year.Hundreds held their heart beats as the theme was unveiled!</string>
+    <string name="str_aarambh_two">Our theme for the present edition is <b>TAKE 30-LIGHTS, CAMERA, ACTION!</b> Pratibimb, just
+like modern cinema has reached it\'s own destination, created it\'s own history and
+has touched it\'s very own milestones.
+Back in the year 1987, the onset of Pratibimb was a great unifying force, witnessing
+it\'s journey from mute filmed to voice and from black and white to coloured in it\'s own
+fashion. Analogous to the cinematic world, it has catered to the interests and talents
+of many, working as a reformative instrument. After having 29 successful takes,
+we\'re now gearing up for the massive 30th one!</string>
+
+    <!-- Illuminati -->
+    <string name="str_meme_event">*Meme-addicts!*, time to make one of your own!
+Take a snap or google an image of anyone or anything related to your dynasty and make a meme. The more humorous and creative your meme be,the better your score! The choice of image mattered equally as the caption. </string>
+    <string name="str_parody_event">This is probably one of the most full of fun tasks of the MMA! A two minute clip has to be chosen from almost anywhere and students have to make a video parody for that. The perfection of matching lipsing, timing and of course creativity will be judged.</string>
+    <string name="str_timeline_event">This was probably one of the most full of fun tasks of the MMA! A two minute clip had to be chosen from almost anywhere and students had to make a video parody for that. The perfection of matching lipsing, timing and of course creativity were judged. All teams put fairly well efforts.</string>
+    <string name="str_jag_event">For all the wicked pranksters in college, Pratibimb came up with *Just a Gag!*
+A two minute video of one or more pranks capturing the expressions of the victim  have to be made.
+How well can you convince someone to fall into a trap?</string>
+    <string name="str_directors_event">Directors cut is a piece of real drama where departments had to make a movie from scratch. It is time to take a script and make a short film. The locations should be well chosen, the editing with appropriate music and the dialogues!
+And of course brilliant themes!
+</string>
+    <string name="str_reincarnation_event">How many of you believe in the concept of a parallel world!? What if the characters and objects of that world were brought into ours?
+This is the task of *"Reincarnation"*
+The dynasties have to choose any objects or characters and bring them to 21st century!
+The imaginative powers along with actors who could make it as original as possible are to be tested.
+</string>
+
+    <!-- Social -->
+    <string name="str_social_tree">A tree plantation drive was conducted by Pratibimb in the month of July.
+We planted 1000 saplings at Saket Gardens in Thane district under the guidance of the Maharashtra Van Vibhag.</string>
+    <string name="str_social_khushi">A raddi-collection drive is conducted in the 2nd week of September. The funds raised by collecting the raddi is donated to the NGOs.</string>
+    <string name="str_social_awaaz">A street play is conducted at The Gateway of India or a mall which witnesses a crowd of nearly 2000 people. A social message pertaining to any of the social evil is portrayed via dance, music and skit by the students of VJTI.</string>
+    <string name="str_social_clean">Following the footsteps of the Prime Minister’s Swachh Bharat Abhiyan, we take the initiative to clean Dadar-Chowpatty Beach on the occasion of Gandhi Jayanti. Get Set Clean drive experiences a very good media coverage.</string>
+    <string name="str_social_udaan">We have a Mumbai Darshan Drive for the underprivileged kids. The ride is provided to the kids by Pratoibimb free of cost.</string>
+    <string name="str_social_painting">Under the railway station painting we paint a particular wall of the station with a social message so that a awareness is created among the passer by.</string>
+
+
+</resources>

@@ -1,0 +1,63 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee"
+    tools:context="vjti.prati_new.RegFreshersFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="25dp"
+            android:paddingLeft="15dp"
+            android:hint="Name*"
+            android:id="@+id/et_reg_name"
+            android:background="@drawable/input_boxes_n"/>
+
+        <Spinner
+            android:id="@+id/branch_spinner"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:background="@android:drawable/btn_dropdown"
+            android:spinnerMode="dropdown" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:paddingLeft="15dp"
+            android:id="@+id/et_reg_phone"
+            android:maxLength="10"
+            android:hint="Phone*"
+            android:inputType="phone"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/input_boxes_n"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:paddingLeft="15dp"
+            android:hint="Email*"
+            android:id="@+id/et_reg_email"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/input_boxes_n"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="REGISTER"
+            android:id="@+id/btn_reg"
+            android:layout_marginTop="20dp"
+            android:background="#2b2a29"
+            android:textColor="#fff"
+            android:textSize="20sp"/>
+
+    </LinearLayout>
+
+</FrameLayout>
